@@ -1,5 +1,5 @@
 {
-	"name":"lucas-gruporodrix/composercourse",
+	"name":"lucasrodrix/composerpkg",
 	"description":"Package Test",
 	"require":{
 		"php":">=5.4",
